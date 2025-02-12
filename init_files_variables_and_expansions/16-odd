@@ -1,2 +1,2 @@
 #!/bin/bash
-printf -ne 'print if $. % 2 == 1'
+read -ne 'print if $. % 2 == 1'
